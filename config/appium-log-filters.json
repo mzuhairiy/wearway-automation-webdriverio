@@ -1,0 +1,6 @@
+[
+  {
+    "pattern": ".*flutter:enterText.*",
+    "replacer": "[Flutter text entry payload redacted]"
+  }
+]
